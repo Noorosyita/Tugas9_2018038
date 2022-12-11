@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tugas6_AlarmManager</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+
+    <string name="Alamat">Address: North Sudimoro Street, Mojolangu, Lowokwaru, Mojolangu, Kec. Lowokwaru, Malang City, East Java 65142</string>
+    <string name="Jam">Open 24 hours</string>
+    <string name="Telepon">Contact Person :  0857-0808-0801</string>
+
+    <string-array name="lapangan">
+        <item>Angkasa Futsal Malang</item>
+        <item>Buana Futsal</item>
+        <item>Viva Futsal</item>
+
+    </string-array>
+    <string-array name="star">
+        <item>4.7</item>
+        <item>4.5</item>
+        <item>4.6</item>
+
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Open from 9 am - 9 pm</item>
+        <item>Open from 7 am - 11 pm</item>
+        <item>Open from 8 am - 10 pm</item>
+    </string-array>
+</resources>
